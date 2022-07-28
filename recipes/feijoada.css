@@ -1,0 +1,46 @@
+.hard_line {
+    text-align: center;
+    
+}
+
+.hard_line img {
+    max-width: 40%;
+    border-radius: 10px;
+}
+
+.hard_line p {
+    font-size:1em
+}
+.hard_line h1{
+    font-size:2em
+}
+
+.ingredients {
+    text-align: center;
+}
+.ingredients h2{
+    font-size:1.5em
+}
+.ingredients_list {
+    text-align: left;
+    margin-left: 30%;
+    
+}
+.ingredients_list label{
+    font-size:1em
+}
+
+.ingredients_list label {
+    font-size:1.2em;
+}
+
+.steps {
+    text-align: center;
+    justify-content:left;
+    padding-left: 5%;
+    
+}
+.paragraph{
+    text-align: left;
+    font-size: 1em;
+}
